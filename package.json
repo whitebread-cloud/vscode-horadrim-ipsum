@@ -5,13 +5,13 @@
   "version": "1.0.0",
   "publisher": "panebianco",
   "license": "MIT",
-  "homepage": "https://github.com/whitebread-cloud/horadrim-ipsum#readme",
+  "homepage": "https://github.com/whitebread-cloud/vscode-horadrim-ipsum#readme",
   "bugs": {
-    "url": "https://github.com/whitebread-cloud/horadrim-ipsum/issues"
+    "url": "https://github.com/whitebread-cloud/vscode-horadrim-ipsum/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/whitebread-cloud/horadrim-ipsum"
+    "url": "https://github.com/whitebread-cloud/vscode-horadrim-ipsum"
   },
   "engines": {
     "vscode": "^1.47.0"
