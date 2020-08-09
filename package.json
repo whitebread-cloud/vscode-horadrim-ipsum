@@ -2,7 +2,7 @@
   "name": "horadrim-ipsum",
   "displayName": "Horadrim Ipsum",
   "description": "Lorem ipsum from the last of the Horadrim",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "panebianco",
   "license": "MIT",
   "homepage": "https://github.com/whitebread-cloud/vscode-horadrim-ipsum#readme",
